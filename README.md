@@ -9,6 +9,6 @@ This project presents the first version of a simple and basic BI Dashboard focus
 *	Discipline Records – Monitors yellow and red cards.
 *	Market Value Trends – Basic tracking of player valuation over time.
 
-Conclusion
+## Conclusion
 
 This first version of the dashboard provides a starting point for evaluating player performance. Future improvements can include more detailed analytics, advanced metrics, and better visualizations to enhance decision-making.
